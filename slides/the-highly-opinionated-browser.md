@@ -1,3 +1,4 @@
 ##  The Highly Opinionated Browser
 
-This is a new Markdown slide
+We have examples of this today. We are already going this direction.
+

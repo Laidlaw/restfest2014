@@ -3,7 +3,42 @@
     "the-problem.md",
     "stripmalls.md",
     "stockmarket.md",
+    "the-question.md",
+    [
+        "wardley-maps.md",
+        {
+            "filename": "wardley-map-1.md",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "wardley-map-2.md",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        "wardley-complexity.md"
+    ],
+    "style-and-content.md",
+    "restfest.md",
     "the-future.md",
-    "the-highly-opinionated-browser.md",
-    "the-question.md"
+    [
+        "the-highly-opinionated-browser.md",
+        {
+            "filename": "flipboard.md",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "instapaper.md",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        "instapaper-workflow.md",
+        "reveal.md"
+    ],
+    "kimono.md"
 ]
