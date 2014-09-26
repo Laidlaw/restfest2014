@@ -7,3 +7,4 @@ When hypermedia is cheap to make and manipulate, non-developers can start writin
 Rather than APIs coming down from companies, they begin to bubble up from people.
 
 
+See Mike's keynote on API Strat
