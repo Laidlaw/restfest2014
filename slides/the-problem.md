@@ -1,5 +1,3 @@
-I hear this alot.
-
 ***Websites*** are to blame.
 
 ***Websites*** have misdirected our attention.
