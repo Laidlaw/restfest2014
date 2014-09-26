@@ -1,8 +1,7 @@
-##  Why I'm Here
+##  We're like them:
 
-In fact we're alot like them.
+#### Them
+Minimize the conflation of style and content
 
-* ### them: style 'from' content
-* ### us: structure 'from' meaning
-
-'from' : minimize the conflation of
+#### Us
+Minimize the conflation of structure and meaning

@@ -1,3 +1,4 @@
-##  Kimono
+##  Solution 2: Visualization Tools
 
-This is a new Markdown slide
+Kimono is a great educational tool.
+
