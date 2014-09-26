@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Why Doesn't Anyone Understand Hypermedia?",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "laidlaw",
+    "githubRepository": "restfest2014"
+  }
+}
